@@ -20,4 +20,4 @@
 
 **EN** — Preview builds: Mac workflow verified; Windows/Linux installation validation pending. SaaS query embedding remains server-side. Mac is not notarized: [Apple’s opening instructions](https://support.apple.com/guide/mac-help/mh40616/mac).
 
-Les données et modèles restent hors de l’application. Aucun secret fournisseur embarqué. · Data and models stay outside the app. No bundled provider credentials.
+Votre bibliothèque et les modèles téléchargés restent hors de l’application. Aucun secret fournisseur embarqué. · Your library and downloaded models stay outside the app. No bundled provider credentials.
