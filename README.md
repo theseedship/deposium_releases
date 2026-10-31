@@ -13,12 +13,8 @@
 | Plateforme · Platform | Version | Téléchargement · Download | Détails · Details |
 | --- | --- | --- | --- |
 | **macOS — Apple Silicon** | 0.2.37 | [**DMG**](https://github.com/theseedship/deposium_releases/releases/download/v0.2.37-installed-solid.37-app-info-visible/DEPOSIUM-0.2.37.dmg) | [Notes](https://github.com/theseedship/deposium_releases/releases/tag/v0.2.37-installed-solid.37-app-info-visible) |
-| **Windows — x64** | 0.2.37 | **Temporairement suspendu · Temporarily on hold** | Validation de l’installation en cours · Installation validation in progress |
+| **Windows — x64** | 0.2.37 | [**EXE**](https://github.com/theseedship/deposium_releases/releases/download/v0.2.37-portable.41240255525.1.win32/Deposium-Setup.exe) | [Notes](https://github.com/theseedship/deposium_releases/releases/tag/v0.2.37-portable.41240255525.1.win32) |
 | **Linux — x64** | 0.2.37 | [**Installateur · Installer**](https://github.com/theseedship/deposium_releases/releases/download/v0.2.37-portable.41234291946.1.linux/linux-x64-Deposium-Setup.tar.gz) | [Notes](https://github.com/theseedship/deposium_releases/releases/tag/v0.2.37-portable.41234291946.1.linux) |
-
-**FR — Windows :** téléchargement temporairement suspendu pendant la validation du parcours d’installation. Les téléchargements Mac et Linux restent disponibles.
-
-**EN — Windows:** download temporarily suspended while the installation workflow is being validated. Mac and Linux downloads remain available.
 
 **FR** — Préversions : parcours Mac vérifié ; installation sur Windows/Linux encore à qualifier. L’embedding des requêtes SaaS reste serveur. Mac non notarié : [procédure d’ouverture Apple](https://support.apple.com/fr-fr/guide/mac-help/-mh40616/mac).
 
