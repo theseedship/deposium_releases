@@ -8,13 +8,15 @@
 
 **EN** — The DEPOSIUM® desktop app, connected to the SaaS with bundled TurboV3 and inference engines. ONNX models included; optional local LLMs downloadable in the app.
 
+Fermer la fenêtre conserve l’application dans la barre de menus / zone de notification si disponible ; **Quitter** arrête le runtime. · Closing the window keeps the app in the tray when available; **Quit** stops the runtime.
+
 ### Télécharger · Download
 
 | Plateforme · Platform | Version | Téléchargement · Download | Détails · Details |
 | --- | --- | --- | --- |
-| **macOS — Apple Silicon** | 0.2.40 | [**DMG**](https://github.com/theseedship/deposium_releases/releases/download/v0.2.40-installed-solid.40-consolidated/DEPOSIUM-0.2.40.dmg) | [Notes](https://github.com/theseedship/deposium_releases/releases/tag/v0.2.40-installed-solid.40-consolidated) |
-| **Windows — x64** | 0.2.40 | [**EXE**](https://github.com/theseedship/deposium_releases/releases/download/v0.2.40-portable.41326682423.1.win32/DEPOSIUM-0.2.40.exe) | [Notes](https://github.com/theseedship/deposium_releases/releases/tag/v0.2.40-portable.41326682423.1.win32) |
-| **Linux — x64** | 0.2.40 | [**Installateur · Installer**](https://github.com/theseedship/deposium_releases/releases/download/v0.2.40-portable.41326682423.1.linux/DEPOSIUM-0.2.40.tar.gz) | [Notes](https://github.com/theseedship/deposium_releases/releases/tag/v0.2.40-portable.41326682423.1.linux) |
+| **macOS — Apple Silicon** | 0.2.41 | [**DMG**](https://github.com/theseedship/deposium_releases/releases/download/v0.2.41-installed-solid.41-close-to-tray/DEPOSIUM-0.2.41.dmg) | [Notes](https://github.com/theseedship/deposium_releases/releases/tag/v0.2.41-installed-solid.41-close-to-tray) |
+| **Windows — x64** | 0.2.41 | [**EXE**](https://github.com/theseedship/deposium_releases/releases/download/v0.2.41-portable.41359710717.1.win32/DEPOSIUM-0.2.41.exe) | [Notes](https://github.com/theseedship/deposium_releases/releases/tag/v0.2.41-portable.41359710717.1.win32) |
+| **Linux — x64** | 0.2.41 | [**Installateur · Installer**](https://github.com/theseedship/deposium_releases/releases/download/v0.2.41-portable.41359710717.1.linux/DEPOSIUM-0.2.41.tar.gz) | [Notes](https://github.com/theseedship/deposium_releases/releases/tag/v0.2.41-portable.41359710717.1.linux) |
 
 **FR** — Préversions : parcours Mac vérifié ; installation sur Windows/Linux encore à qualifier. L’embedding des requêtes SaaS et TGS restent serveur ; le rerank BGE peut tourner sur le poste. Mac non notarié : [procédure d’ouverture Apple](https://support.apple.com/fr-fr/guide/mac-help/-mh40616/mac).
 
