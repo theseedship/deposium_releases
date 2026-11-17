@@ -10,19 +10,19 @@
 
 Fermer la fenêtre conserve l’application dans la barre de menus / zone de notification si disponible ; **Quitter** arrête le runtime. · Closing the window keeps the app in the tray when available; **Quit** stops the runtime.
 
-0.2.42 — Les modèles natifs inactifs sont déchargés puis rechargés à la demande. · Idle native models unload and reload on demand.
+0.2.50 — Fermeture en plein écran corrigée sur Mac. Moteurs locaux mis à jour avec llama.cpp 1.0.0 et ONNX Runtime 1.31.1. · Fullscreen close fixed on Mac. Local engines updated to llama.cpp 1.0.0 and ONNX Runtime 1.31.1.
 
 ### Télécharger · Download
 
 | Plateforme · Platform | Version | Téléchargement · Download | Détails · Details |
 | --- | --- | --- | --- |
-| **macOS — Apple Silicon** | 0.2.42 | [**DMG**](https://github.com/theseedship/deposium_releases/releases/download/v0.2.42-installed-solid.42-memory/DEPOSIUM-0.2.42.dmg) | [Notes](https://github.com/theseedship/deposium_releases/releases/tag/v0.2.42-installed-solid.42-memory) |
+| **macOS — Apple Silicon** | 0.2.50 | [**DMG**](https://github.com/theseedship/deposium_releases/releases/download/v0.2.50-installed-solid.50-native/DEPOSIUM-macos-arm64-0.2.50.dmg) | [Notes](https://github.com/theseedship/deposium_releases/releases/tag/v0.2.50-installed-solid.50-native) |
 | **Windows — x64** | 0.2.42 | [**EXE**](https://github.com/theseedship/deposium_releases/releases/download/v0.2.42-portable.41719225846.1.win32/DEPOSIUM-0.2.42.exe) | [Notes](https://github.com/theseedship/deposium_releases/releases/tag/v0.2.42-portable.41719225846.1.win32) |
-| **Linux — x64** | 0.2.42 | [**Installateur · Installer**](https://github.com/theseedship/deposium_releases/releases/download/v0.2.42-portable.41719225846.1.linux/DEPOSIUM-0.2.42.tar.gz) | [Notes](https://github.com/theseedship/deposium_releases/releases/tag/v0.2.42-portable.41719225846.1.linux) |
+| **Linux — x64** | 0.2.50 | [**Installateur · Installer**](https://github.com/theseedship/deposium_releases/releases/download/v0.2.50-portable.44183502778.1.linux/linux-x64-Deposium-Setup.tar.gz) | [Notes](https://github.com/theseedship/deposium_releases/releases/tag/v0.2.50-portable.44183502778.1.linux) |
 
-**FR** — Préversions : runtime Mac vérifié (BGE seul, déchargement et reprise) ; installation sur Windows/Linux encore à qualifier. L’embedding des requêtes SaaS et TGS restent serveur ; le rerank BGE peut tourner sur le poste. Mac non notarié : [procédure d’ouverture Apple](https://support.apple.com/fr-fr/guide/mac-help/-mh40616/mac).
+**FR** — Préversions : Mac Apple Silicon avec macOS 14 ou plus, tests locaux PPLX, BGE et Qwen passés ; installation sur Windows/Linux encore à qualifier. L’embedding des requêtes SaaS et TGS restent serveur ; le rerank BGE peut tourner sur le poste. Mac non notarié : [procédure d’ouverture Apple](https://support.apple.com/fr-fr/guide/mac-help/-mh40616/mac).
 
-**EN** — Preview builds: Mac runtime verified (BGE-only loading, unloading and reloading); Windows/Linux installation validation pending. SaaS query embedding and TGS remain server-side; BGE reranking can run locally. Mac is not notarized: [Apple’s opening instructions](https://support.apple.com/guide/mac-help/mh40616/mac).
+**EN** — Preview builds: Apple Silicon Mac with macOS 14 or later, local PPLX, BGE and Qwen checks passed; Windows/Linux installation validation pending. SaaS query embedding and TGS remain server-side; BGE reranking can run locally. Mac is not notarized: [Apple’s opening instructions](https://support.apple.com/guide/mac-help/mh40616/mac).
 
 Votre bibliothèque et les modèles téléchargés restent hors de l’application. Aucun secret fournisseur embarqué. · Your library and downloaded models stay outside the app. No bundled provider credentials.
 
