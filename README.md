@@ -17,7 +17,7 @@ Fermer la fenêtre conserve l’application dans la barre de menus / zone de not
 | Plateforme · Platform | Version | Téléchargement · Download | Détails · Details |
 | --- | --- | --- | --- |
 | **macOS — Apple Silicon** | 0.2.50 | [**DMG**](https://github.com/theseedship/deposium_releases/releases/download/v0.2.50-installed-solid.50-native/DEPOSIUM-macos-arm64-0.2.50.dmg) | [Notes](https://github.com/theseedship/deposium_releases/releases/tag/v0.2.50-installed-solid.50-native) |
-| **Windows — x64** | 0.2.42 | [**EXE**](https://github.com/theseedship/deposium_releases/releases/download/v0.2.42-portable.41719225846.1.win32/DEPOSIUM-0.2.42.exe) | [Notes](https://github.com/theseedship/deposium_releases/releases/tag/v0.2.42-portable.41719225846.1.win32) |
+| **Windows — x64** | 0.2.50 | [**EXE**](https://github.com/theseedship/deposium_releases/releases/download/v0.2.50-portable.44195421648.1.win32/Deposium-Setup.exe) | [Notes](https://github.com/theseedship/deposium_releases/releases/tag/v0.2.50-portable.44195421648.1.win32) |
 | **Linux — x64** | 0.2.50 | [**Installateur · Installer**](https://github.com/theseedship/deposium_releases/releases/download/v0.2.50-portable.44183502778.1.linux/linux-x64-Deposium-Setup.tar.gz) | [Notes](https://github.com/theseedship/deposium_releases/releases/tag/v0.2.50-portable.44183502778.1.linux) |
 
 **FR** — Préversions : Mac Apple Silicon avec macOS 14 ou plus, tests locaux PPLX, BGE et Qwen passés ; installation sur Windows/Linux encore à qualifier. L’embedding des requêtes SaaS et TGS restent serveur ; le rerank BGE peut tourner sur le poste. Mac non notarié : [procédure d’ouverture Apple](https://support.apple.com/fr-fr/guide/mac-help/-mh40616/mac).
